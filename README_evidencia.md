@@ -5,13 +5,12 @@ Este repositorio contiene la solución completa solicitada para la práctica de 
 ## Archivos incluidos
 
 - `calculator.py`: programa principal con suma, resta, multiplicación y división.
-- `test_calculator.py`: pruebas automáticas para validar funciones (si aplica).
-- Carpeta `evidence/screenshots/`: contiene capturas de evidencia del funcionamiento y uso de Git (opcional según instructora).
+- `test_calculator.py`: pruebas automáticas para validar funciones (si aplica)
 
 ## Cómo ejecutar
 
 python calculator.py
 
-## Autora
+## Aprendiz
 Sandra Lozano  
-Fecha: (actual)
+Fecha: (17/11/2025)
